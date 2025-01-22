@@ -60,7 +60,7 @@ img{
 
 body {
   height: 100vh;
-  background-image: url(images/molduraaa.png), linear-gradient(#111111 10%,#2D2D2D 90%);
+  background-image: url(molduraaa.png), linear-gradient(#111111 10%,#2D2D2D 90%);
   background-size: 385px 785px;
   margin-top: 40px;
   width:100%;
